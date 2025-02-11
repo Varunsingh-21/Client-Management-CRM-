@@ -1,0 +1,28 @@
+Sign-In success at 2023-10-27 0:09:32 User jdoe@dcmail.casign-in 
+User addition Success at 2023-10-27 0:11:08 User sale75@gmail.comuser addition 
+Client Registration  Failure  at 2023-10-27 0:11:44 User lllllllllll75@gmail.comclient registration 
+Sign-In success at 2023-10-27 0:12:29 User jdoe@dcmail.casign-in 
+User addition Success at 2023-10-27 0:12:59 User sale69@gmail.comuser addition 
+Client Registration  Success sale69@gmail.com at 2023-10-27 0:13:25 User vp@gmail.comclient registration 
+Sign-Out Success at 2023-10-27 0:13:27 User jdoe@dcmail.casign-out 
+Sign-In success at 2023-10-27 0:13:45 User sale69@gmail.comsign-in 
+Sign-Out Success at 2023-10-27 0:14:02 User sale69@gmail.comsign-out 
+Sign-In success at 2023-10-27 0:14:13 User jdoe@dcmail.casign-in 
+User addition Success at 2023-10-27 0:14:37 User gujju123@gmail.comuser addition 
+Client Registration  Success gujju123@gmail.com at 2023-10-27 0:15:02 User punjab123@gmail.comclient registration 
+Sign-Out Success at 2023-10-27 0:15:03 User jdoe@dcmail.casign-out 
+Sign-In success at 2023-10-27 0:15:07 User gujju123@gmail.comsign-in 
+Sign-Out Success at 2023-10-27 0:15:13 User gujju123@gmail.comsign-out 
+Sign-In success at 2023-10-27 0:17:33 User jdoe@dcmail.casign-in 
+Sign-In success at 2023-10-27 0:18:03 User jdoe@dcmail.casign-in 
+User addition Success at 2023-10-27 0:18:19 User vaaani@s.comuser addition 
+Client Registration  Success vaaani@s.com at 2023-10-27 0:18:46 User punjabiiiiiiiiiiiiiiiiiiiii@s.comclient registration 
+Sign-Out Success at 2023-10-27 0:18:49 User jdoe@dcmail.casign-out 
+Sign-In success at 2023-10-27 0:18:55 User vaaani@s.comsign-in 
+Sign-Out Success at 2023-10-27 0:19:01 User vaaani@s.comsign-out 
+Sign-In success at 2023-10-27 0:19:07 User jdoe@dcmail.casign-in 
+User addition Success at 2023-10-27 0:19:20 User varundhvvneepsingh@dcmail.causer addition 
+Sign-Out Success at 2023-10-27 0:19:22 User jdoe@dcmail.casign-out 
+Sign-In success at 2023-10-27 0:19:27 User varundhvvneepsingh@dcmail.casign-in 
+Sign-In success at 2023-10-27 12:04:55 User jdoe@dcmail.casign-in 
+Sign-In success at 2023-10-27 20:17:34 User jdoe@dcmail.casign-in 

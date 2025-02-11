@@ -1,0 +1,51 @@
+Sign-In success at 2023-10-26 15:52:11 User jdoe@dcmail.casign-in 
+User addition Success at 2023-10-26 15:52:36 User vsingh12309h@dcmail.causer addition 
+Sign-Out Success at 2023-10-26 15:52:44 User jdoe@dcmail.casign-out 
+Sign-In Failure at 2023-10-26 15:52:59 User varunsinghh@dcmail.casign-in 
+Sign-In success at 2023-10-26 15:53:12 User vsingh12309h@dcmail.casign-in 
+Sign-Out Success at 2023-10-26 15:53:17 User vsingh12309h@dcmail.casign-out 
+Sign-In success at 2023-10-26 16:14:43 User jdoe@dcmail.casign-in 
+Sign-Out Success at 2023-10-26 16:53:28 User jdoe@dcmail.casign-out 
+Sign-In Failure at 2023-10-26 16:53:33 User vsingh12309@dcmail.casign-in 
+Sign-In success at 2023-10-26 16:53:43 User jdoe@dcmail.casign-in 
+Sign-In success at 2023-10-26 16:58:46 User jdoe@dcmail.casign-in 
+Sign-Out Success at 2023-10-26 16:59:49 User jdoe@dcmail.casign-out 
+Sign-In success at 2023-10-26 16:59:55 User vsingh12309h@dcmail.casign-in 
+Sign-In success at 2023-10-26 17:09:34 User vsingh12309h@dcmail.casign-in 
+Sign-In success at 2023-10-26 17:56:31 User vsingh12309h@dcmail.casign-in 
+Sign-In success at 2023-10-26 19:32:32 User vsingh12309h@dcmail.casign-in 
+Sign-In success at 2023-10-26 19:43:24 User vsingh12309h@dcmail.casign-in 
+Sign-In success at 2023-10-26 19:47:14 User vsingh12309h@dcmail.casign-in 
+Client Registration Failed byvsingh12309h@dcmail.ca at 2023-10-26 19:47:21 User vfw@s.comclient registration 
+Sign-In success at 2023-10-26 19:48:12 User vsingh12309h@dcmail.casign-in 
+Client Registration Failure at 2023-10-26 19:48:18 User verv@s.comclient registration 
+Sign-In success at 2023-10-26 19:50:07 User vsingh12309h@dcmail.casign-in 
+Client Registration Failure at 2023-10-26 19:50:13 User verevv@s.comclient registration 
+Client Registration Failed byvsingh12309h@dcmail.ca at 2023-10-26 19:51:54 User verevv@s.comclient registration 
+Sign-In success at 2023-10-26 19:54:39 User vsingh12309h@dcmail.casign-in 
+Client Registration Failed byvsingh12309h@dcmail.ca at 2023-10-26 19:54:51 User vererfvv@s.comclient registration 
+Sign-Out Success at 2023-10-26 19:55:20 User vsingh12309h@dcmail.casign-out 
+Sign-In success at 2023-10-26 19:55:27 User vsingh12309h@dcmail.casign-in 
+Client Registration Failed byvsingh12309h@dcmail.ca at 2023-10-26 19:55:32 User vererfrtbvv@s.comclient registration 
+Client Registration Failed byvsingh12309h@dcmail.ca at 2023-10-26 20:02:23 User varundeeprbtsingh@dcmail.caclient registration 
+Client Registration Failed byvsingh12309h@dcmail.ca at 2023-10-26 20:03:09 User varunsibrngh151509@gmail.comclient registration 
+Sign-Out Success at 2023-10-26 21:31:22 User vsingh12309h@dcmail.casign-out 
+Sign-In success at 2023-10-26 21:37:29 User jdoe@dcmail.casign-in 
+Sign-In success at 2023-10-26 21:38:21 User vsingh12309h@dcmail.casign-in 
+Sign-In success at 2023-10-26 21:50:58 User vsingh12309h@dcmail.casign-in 
+Sign-Out Success at 2023-10-26 21:58:04 User vsingh12309h@dcmail.casign-out 
+Sign-In success at 2023-10-26 21:58:08 User jdoe@dcmail.casign-in 
+Sign-Out Success at 2023-10-26 21:58:20 User jdoe@dcmail.casign-out 
+Sign-In success at 2023-10-26 21:58:26 User vsingh12309h@dcmail.casign-in 
+Client Registration  Success vsingh12309h@dcmail.ca at 2023-10-26 22:40:12 User client101@gmail.comclient registration 
+Call Registration  Success vsingh12309h@dcmail.ca at 2023-10-26 22:40:23 User call registration 
+Call Registration  Success  at 2023-10-26 22:42:47 User vsingh12309h@dcmail.cacall registration 
+Sign-In success at 2023-10-26 22:47:34 User vsingh12309h@dcmail.casign-in 
+Client Registration  Success vsingh12309h@dcmail.ca at 2023-10-26 22:47:43 User client101@gmail.comclient registration 
+Call Registration  Success  at 2023-10-26 22:47:53 User vsingh12309h@dcmail.cacall registration 
+Call Registration  Success  at 2023-10-26 22:49:35 User vsingh12309h@dcmail.cacall registration 
+Sign-In success at 2023-10-26 23:36:52 User jdoe@dcmail.casign-in 
+User addition Success at 2023-10-26 23:37:07 User sale11@gmail.comuser addition 
+Client Registration  Success sale11@gmail.com at 2023-10-26 23:37:22 User cl@dcmail.caclient registration 
+Sign-Out Success at 2023-10-26 23:37:23 User jdoe@dcmail.casign-out 
+Sign-In success at 2023-10-26 23:37:28 User sale11@gmail.comsign-in 

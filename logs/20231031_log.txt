@@ -1,0 +1,15 @@
+Sign-In success at 2023-10-31 13:55:58 User jdoe@dcmail.casign-in 
+Sign-Out Success at 2023-10-31 13:57:19 User jdoe@dcmail.casign-out 
+Sign-In success at 2023-10-31 13:57:39 User jdoe@dcmail.casign-in 
+Sign-Out Success at 2023-10-31 18:52:41 User sign-out 
+Sign-In success at 2023-10-31 18:53:00 User jdoe@dcmail.casign-in 
+Sign-Out Success at 2023-10-31 18:53:38 User jdoe@dcmail.casign-out 
+Sign-In success at 2023-10-31 18:53:46 User jdoe@dcmail.casign-in 
+Client Registration  Success vrundpatel26@mail.com at 2023-10-31 18:54:26 User rajxyz@gmail.comclient registration 
+Sign-Out Success at 2023-10-31 18:54:30 User jdoe@dcmail.casign-out 
+Sign-In Failure at 2023-10-31 18:54:49 User vrundpatel26@mail.comsign-in 
+Sign-In success at 2023-10-31 18:55:13 User jdoe@dcmail.casign-in 
+Client Registration  Success vaingach@dcmail.ca at 2023-10-31 18:56:36 User rajshao@gmail.comclient registration 
+Sign-Out Success at 2023-10-31 18:56:38 User jdoe@dcmail.casign-out 
+Sign-In success at 2023-10-31 18:57:00 User varsingach@dcmail.casign-in 
+Client Registration  Success varundh@dcmail.ca at 2023-10-31 18:57:51 User h@dcmail.caclient registration 

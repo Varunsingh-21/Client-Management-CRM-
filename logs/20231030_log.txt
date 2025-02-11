@@ -1,0 +1,4 @@
+Sign-In success at 2023-10-30 12:34:54 User jdoe@dcmail.casign-in 
+User addition Success at 2023-10-30 12:36:18 User vrundpatel26@mail.comuser addition 
+Client Registration  Success varupsingfdsh@dcmail.ca at 2023-10-30 12:37:41 User vrundpatel34@gmail.comclient registration 
+Client Registration  Success sales_1@dcmail.ca at 2023-10-30 12:53:40 User vrundpatel2606@mail.comclient registration 
